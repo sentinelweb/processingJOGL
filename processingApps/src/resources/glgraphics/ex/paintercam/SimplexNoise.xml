@@ -1,0 +1,6 @@
+<filter name="Simplex Noise Shader">
+    <description>Calculates 4D Simplex Noise</description>
+    <vertex>resources/glgraphics/ex/paintercam/Noise4vp.glsl</vertex>	
+    <fragment>resources/glgraphics/ex/paintercam/Noise4fp.glsl</fragment>
+    <textures input="4" output="1"></textures>
+</filter>

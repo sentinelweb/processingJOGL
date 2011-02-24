@@ -1,0 +1,6 @@
+<filter name="Test">
+    <description>Test</description>
+    <vertex>resources/pd/sphere/Move.glsl</vertex>	
+    <fragment>resources/pd/sphere/sphere.frag</fragment>
+    <textures input="0" output="0"></textures>
+</filter>

@@ -1,0 +1,5 @@
+<filter name="posterize">
+    <description>resources/glgraphics/ex/multiFilter/Posterize filter</description>
+    <fragment>resources/glgraphics/ex/multiFilter/Posterize.glsl</fragment>
+    <textures input="1" output="1"></textures>
+</filter>

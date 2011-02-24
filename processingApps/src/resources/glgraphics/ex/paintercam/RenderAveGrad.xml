@@ -1,0 +1,5 @@
+<filter name="Render Average Gradient Shader">
+    <description>Calculates the spatial average of the luminance gradient</description>
+    <fragment>resources/glgraphics/ex/paintercam/RenderAveGrad.glsl</fragment>
+    <textures input="3" output="2"></textures>
+</filter>

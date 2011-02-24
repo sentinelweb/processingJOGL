@@ -1,0 +1,4 @@
+<filter name="duotone">
+    <description>Julia filter</description>
+    <fragment>resources/robmunro/julia/julia.glsl</fragment>
+</filter>

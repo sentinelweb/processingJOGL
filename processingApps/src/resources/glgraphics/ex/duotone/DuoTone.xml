@@ -1,0 +1,5 @@
+<filter name="duotone">
+    <description>Duo-tone filter</description>
+    <fragment>resources/glgraphics/ex/duotone/DuoTone.glsl</fragment>
+    <textures input="1" output="1"></textures>
+</filter>

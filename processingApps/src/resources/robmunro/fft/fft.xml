@@ -1,0 +1,5 @@
+<filter name="pixelate effect">
+    <description>FFT filter</description>
+    <fragment>resources/robmunro/fft/fft.glsl</fragment>
+    <textures input="1" output="1"></textures>
+</filter>

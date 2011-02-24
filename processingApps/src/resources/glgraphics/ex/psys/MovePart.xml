@@ -1,0 +1,5 @@
+<filter name="Move Particles Shader">
+    <description>Updates the position of the particles</description>
+    <fragment>resources/glgraphics/ex/psys/MovePart.glsl</fragment>
+    <textures input="2" output="2"></textures>
+</filter>

@@ -1,0 +1,6 @@
+<filter name="extract bloom">
+    <description>Filter that extracts the bloom mask from an input texture</description>
+    <fragment>resources/glgraphics/ex/bloom/SimpleVS.glsl</fragment>
+    <fragment>resources/glgraphics/ex/bloom/ExtractBloom.glsl</fragment>
+    <textures input="1" output="1"></textures>
+</filter>

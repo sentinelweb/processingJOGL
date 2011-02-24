@@ -1,0 +1,6 @@
+<filter name="gaussian blur">
+    <description>3x3 Gaussian blur convolution filter</description>
+    <fragment>resources/glgraphics/ex/bloom/SimpleVS.glsl</fragment>
+    <fragment>resources/glgraphics/ex/bloom/Blur.glsl</fragment>
+    <textures input="1" output="1"></textures>
+</filter>

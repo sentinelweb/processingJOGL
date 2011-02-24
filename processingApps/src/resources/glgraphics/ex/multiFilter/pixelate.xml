@@ -1,0 +1,5 @@
+<filter name="pixelate effect">
+    <description>Pixelation filter</description>
+    <fragment>resources/glgraphics/ex/multiFilter/Pixelate.glsl</fragment>
+    <textures input="1" output="1"></textures>
+</filter>

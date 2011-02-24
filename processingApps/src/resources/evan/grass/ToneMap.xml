@@ -1,0 +1,6 @@
+<filter name="tone mapping">
+    <description>Filter that computes the tone mapping of an HDR image with a bloom mask</description>
+    <fragment>SimpleVS.glsl</fragment>
+    <fragment>ToneMap.glsl</fragment>
+    <textures input="2" output="1"></textures>
+</filter>

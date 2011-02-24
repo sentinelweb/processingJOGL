@@ -1,0 +1,12 @@
+<filter name="Move Particles Shader">
+    <description>Updates the position of the particles</description>
+    <fragment>resources/glgraphics/ex/paintercam/MovePart.glsl</fragment>
+    <textures input="4" output="1"></textures>
+    <grid mode="compiled">
+        <resolution nx="w" ny="h" mode="points"></resolution>
+		<point>
+		    <coord x="x" y="y"></coord>
+            <texcoord s="s" t="t"></texcoord>
+		</point>
+    </grid>
+</filter>

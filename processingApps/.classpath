@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="var" path="PROCESSING_LIBS/glgraphics/library/glgraphics.jar" sourcepath="/home/robm/processing/processing-1.0/processing-0148/libraries/glgraphics/source-0.8.2"/>
+	<classpathentry kind="var" path="PROCESSING_LIBS/xml/library/xml.jar"/>
+	<classpathentry kind="var" path="PROCESSING_LIBS/controlP5/library/controlP5.jar"/>
+	<classpathentry kind="var" path="PROCESSING_LIBS/gsvideo/library/gstreamer-java-0.7.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/usr/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="PROCESSING_LIBS/gsvideo/library/gsvideo.jar" sourcepath="/PROCESSING_LIBS/gsvideo/gsvideo-src"/>
+	<classpathentry kind="var" path="PROCESSING_LIBS/gsvideo/library/jna-3.0.2.jar"/>
+	<classpathentry kind="var" path="PROCESSING_LIBS/gestalt_p5/library/gestalt_1_4.jar" sourcepath="/PROCESSING_LIBS/gestalt_p5/src"/>
+	<classpathentry kind="var" path="PROCESSING_LIBS/gestalt_p5/library/gestalt.jar" sourcepath="/PROCESSING_LIBS/gestalt_p5/src"/>
+	<classpathentry kind="var" path="PROCESSING_LIBS/gestalt_p5/library/gestalt-data.jar"/>
+	<classpathentry kind="var" path="PROCESSING_LIBS/gestalt_p5/library/gestalt-demo.jar"/>
+	<classpathentry kind="var" path="PROCESSING_LIBS/gestalt_p5/library/mathematik.jar" sourcepath="/home/robm/processing/processing-1.0/processing-0148/libraries/gestalt_p5/gestalt-doc"/>
+	<classpathentry kind="var" path="PROCESSING_LIBS/fullscreen/library/fullscreen.jar"/>
+	<classpathentry kind="var" path="PROCESSING_LIBS/procontroll/library/procontroll.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/home/robm/processing/processing-1.0/processing-0148/libraries/procontroll/library"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="PROCESSING_LIBS/oscP5/library/oscP5.jar"/>
+	<classpathentry kind="var" path="PROCESSING_LIBS/ocd/ocd/library/ocd.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/processing-head"/>
+	<classpathentry kind="lib" path="/processing-head/opengl/library/gluegen-rt-natives-linux-i586.jar"/>
+	<classpathentry kind="lib" path="/processing-head/opengl/library/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="/processing-head/opengl/library/jogl-natives-linux-i586.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="processing-head/opengl/library"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/processing-head/opengl/library/jogl.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>
